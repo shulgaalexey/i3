@@ -184,3 +184,6 @@ exec setxkbmap -option caps:escape
 
 # Set key delays
 exec xset r rate 200 25
+
+# Autostart dropbox
+exec dropbox start
