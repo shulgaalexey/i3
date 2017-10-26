@@ -34,3 +34,11 @@ The saved directory even persists across logout/login, if you don't want that, s
 Note: If you have multiple terminals open at different directories, switch to the terminal whose directory you want to 'clone', type <enter> or run some other command at the prompt to save that directory, then open a new terminal.
   
 Ref https://faq.i3wm.org/question/150/how-to-launch-a-terminal-from-here/
+
+## Launching .desktop files
+
+```
+i3-dmenu-desktop
+```
+
+Ref https://build.i3wm.org/docs/i3-dmenu-desktop.html
