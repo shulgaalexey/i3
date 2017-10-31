@@ -188,3 +188,7 @@ exec xset r rate 200 25
 
 # Autostart dropbox
 exec dropbox start
+
+
+# Launch Google Chrome
+bindsym Control+w exec /usr/bin/google-chrome
