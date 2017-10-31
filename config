@@ -191,4 +191,4 @@ exec dropbox start
 
 
 # Launch Google Chrome
-bindsym Control+w exec /usr/bin/google-chrome
+bindsym $mod+Control+w exec /usr/bin/google-chrome
