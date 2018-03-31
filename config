@@ -186,6 +186,10 @@ exec setxkbmap -option caps:escape
 # Set key delays
 exec xset r rate 200 25
 
+# Set solid color wallpapers
+xsetroot -solid "#333333"
+
+
 # Autostart dropbox
 exec dropbox start
 
